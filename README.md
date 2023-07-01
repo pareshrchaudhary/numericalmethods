@@ -1,1 +1,1 @@
-# numericalcomputing
+# numericalmethods
