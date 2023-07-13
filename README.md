@@ -3,7 +3,7 @@
 _This repository is practical implementation of numerical methods and other software engineering techniques that I am writing to teach myself._
 
 ## Table of Contents
-#### 00. [Object Oriented Python](https://colab.research.google.com/github/pareshrchaudhary/numericalmethods/blob/main/00ObjectOrientedPython.ipynb)
+#### 00. [Object Oriented Python](https://colab.research.google.com/github/pareshrchaudhary/numericalmethods/blob/main/ObjectOrientedPython.ipynb)
 #### 01. [Numbers Float](https://colab.research.google.com/github/pareshrchaudhary/numericalcomputing/blob/main/01Numbers.ipynb) - [Links](#number-representation)
 #### 02. [Complexity](https://colab.research.google.com/github/pareshrchaudhary/numericalmethods/blob/main/02Complexity.ipynb) - [Links](#big-o)
 
