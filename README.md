@@ -20,3 +20,5 @@ _This repository is practical implementation of numerical methods and other soft
 
 #### Big O
 - [Reducible - What Is Big O Notation?](https://www.youtube.com/watch?v=Q_1M2JaijjQ&list=LL&index=15&ab_channel=Reducible)  
+- [Big O Notation (and Omega and Theta) - best mathematical explanation](https://www.youtube.com/watch?v=ei-A_wy5Yxw&ab_channel=profbillbyrne)
+- [Cheat Sheet](https://www.bigocheatsheet.com/)
