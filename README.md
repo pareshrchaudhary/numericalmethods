@@ -9,7 +9,7 @@ _This repository is practical implementation of numerical methods and other soft
 
 
 -------------------------------------------------------------------------------
-## Links  
+## References  
 
 #### Markdown Tutorials 
 - [From the creator of Markdown](https://daringfireball.net/projects/markdown/)
