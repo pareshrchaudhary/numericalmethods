@@ -12,6 +12,9 @@ _This repository is practical implementation of numerical methods and other soft
 -------------------------------------------------------------------------------
 ## References  
 
+#### Python 
+- [Python Programming](https://python.pages.doc.ic.ac.uk/)
+  
 #### Markdown Tutorials 
 - [From the creator of Markdown](https://daringfireball.net/projects/markdown/)
 - [Hands on tutorial](https://www.markdowntutorial.com/)
