@@ -20,7 +20,7 @@ class Limits():
       return func1(x) + func2(x)
     return self.evaluate_limit(add_function, point)
 
-  def subtract(self, func1, func2, point):
+  def sub(self, func1, func2, point):
     def sub_function(x):
       return func1(x) - func2(x)
     return self.evaluate_limit(sub_function, point)
