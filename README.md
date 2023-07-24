@@ -7,7 +7,7 @@ _This repository is practical implementation of numerical methods and other soft
 #### 01. [Numbers (Float)](#number-representation) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pareshrchaudhary/numericalcomputing/blob/main/Numbers.ipynb)
 #### 02. [Complexity](#big-o) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pareshrchaudhary/numericalmethods/blob/main/Complexity.ipynb)
 #### 03. [Limits](#math) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pareshrchaudhary/numericalmethods/blob/main/Limits.ipynb)
-
+#### 04. [Derivatives](#math) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pareshrchaudhary/numericalmethods/blob/main/Derivatives.ipynb)
 
 -------------------------------------------------------------------------------
 ## References  
