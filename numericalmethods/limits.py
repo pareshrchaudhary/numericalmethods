@@ -10,7 +10,7 @@ class Limits():
   def evaluate_limit(self, func, point):
     left_limit, right_limit = self.calculate_limit(func, point)
 
-    if (math.isclose(left_limit, right_limit, rel_tol =1e-4)):
+    if (math.isclose(left_limit, right_limit, rel_tol = 1e-4, abs_tol=2.0e-06)):
       return True, round(((left_limit + right_limit) / 2), 4)
     else:
       return False, None
