@@ -9,6 +9,7 @@ _This repository is practical implementation of numerical methods and other soft
 - [ ]  03. [Limits](#math) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pareshrchaudhary/numericalmethods/blob/main/Limits.ipynb)
 - [ ]  04. [Derivatives](#math) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pareshrchaudhary/numericalmethods/blob/main/Derivatives.ipynb)
 - [ ]  05. [Applications of Derivatives](#math) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pareshrchaudhary/numericalmethods/blob/main/DerivativesApplications.ipynb)
+- [ ]  06. [Integration](#math) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 -------------------------------------------------------------------------------
 ## References  
