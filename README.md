@@ -1,6 +1,6 @@
 # numericalmethods
 
-_This repository is practical implementation of numerical methods and other software engineering techniques that I am writing to teach myself._
+_This repository has practical implementation of numerical methods and other software engineering techniques._
 
 ## Table of Contents
 - [ ]  00. [Object Oriented Python](#python) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pareshrchaudhary/numericalmethods/blob/main/ObjectOrientedPython.ipynb)
