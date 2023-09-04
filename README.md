@@ -41,3 +41,6 @@ _This repository has practical implementation of numerical methods and other sof
     - [18.06 Linear Algebra by Gilbert Strang](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about)
     - [Linear Algebra Review](https://www.cs.cmu.edu/~zkolter/course/linalg/)
     - [3Bbue1Brown - Essence of linear algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+ 
+- Probability
+    -[Seeing Theory](https://seeing-theory.brown.edu/)
