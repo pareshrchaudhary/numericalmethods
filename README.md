@@ -43,4 +43,4 @@ _This repository has practical implementation of numerical methods and other sof
     - [3Bbue1Brown - Essence of linear algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
  
 - Probability
-    -[Seeing Theory](https://seeing-theory.brown.edu/)
+    - [Seeing Theory](https://seeing-theory.brown.edu/)
